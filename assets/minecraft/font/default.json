@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:onemore/banner.png",
+      "ascent": 0,
+      "height": 36,
+      "chars": [ "\uE000" ]
+    }
+  ]
+}
